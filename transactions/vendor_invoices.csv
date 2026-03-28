@@ -1,0 +1,7 @@
+Doc_Number,Posting_Date,Due_Date,Vendor_ID,Vendor_Name,GL_Account,Description,Invoice_Amount,Payment_Amount,Outstanding_Amount,Payment_Date,Payment_Doc,T_Code,Company_Code,Fiscal_Year,Period
+2001,2024-04-05,2024-05-05,V001,Steel Suppliers Pvt Ltd,200000,Raw Material Supply,400000,400000,0,2024-05-01,P001,F110,IN01,2024,1
+2002,2024-04-10,2024-05-25,V002,National Electricals Co,200000,Electrical Components,175000,0,175000,,, FB60,IN01,2024,1
+2003,2024-04-14,2024-05-14,V003,Logistic Partners Ltd,200000,Freight Charges April,60000,0,60000,,,FB60,IN01,2024,1
+2004,2024-04-18,2024-04-18,V004,Office Essentials India,200000,Office Supplies,25000,25000,0,2024-04-20,P002,F110,IN01,2024,1
+2005,2024-04-22,2024-06-06,V001,Steel Suppliers Pvt Ltd,200000,Raw Material Supply 2,320000,0,320000,,,FB60,IN01,2024,1
+2006,2024-04-28,2024-05-28,V002,National Electricals Co,200000,Equipment Maintenance,90000,0,90000,,,FB60,IN01,2024,1
