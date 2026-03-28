@@ -1,0 +1,3 @@
+Doc_Number,Posting_Date,GL_Account,Description,Original_Currency,Original_Amount,Exchange_Rate_Posting,Exchange_Rate_Revaluation,INR_At_Posting,INR_At_Revaluation,FX_Gain_Loss,Company_Code
+5001,2024-04-18,110000,Sunrise Exports USD Invoice,USD,10000,83.20,84.50,832000,845000,13000,IN01
+5002,2024-04-22,200000,Steel Supplier USD Payable,USD,5000,83.20,84.50,416000,422500,-6500,IN01

@@ -1,0 +1,4 @@
+Asset_No,Asset_Description,Asset_Class,Acquisition_Date,Acquisition_Value,Useful_Life_Years,Depreciation_Method,Accumulated_Depreciation,Current_Period_Dep,WDV,Company_Code,Cost_Center,Fiscal_Year,Period
+AST001,CNC Machine,Plant and Machinery,2024-04-03,1000000,10,Straight Line,0,8333,991667,IN01,CC002,2024,1
+AST002,Office Computers,IT Equipment,2024-04-03,300000,5,Straight Line,0,5000,295000,IN01,CC001,2024,1
+AST003,Delivery Vehicle,Vehicle,2024-04-03,200000,8,Straight Line,0,2083,197917,IN01,CC003,2024,1
