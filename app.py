@@ -216,6 +216,42 @@ hr {{ border-color: {C['border']} !important; opacity: 0.4; }}
     margin: 0.25rem 0;
     border-left: 3px solid {C['orange']};
 }}
+button[data-testid="collapsedControl"] span {{
+    font-size: 0 !important;
+    width: 0 !important;
+}}
+[data-testid="stSidebarCollapseButton"] span {{
+    font-size: 0 !important;
+    width: 0 !important;
+}}
+button[data-testid="collapsedControl"] {{
+    background: #F77F00 !important;
+    border-radius: 50% !important;
+    border: 2px solid #E85D04 !important;
+    width: 2rem !important;
+    height: 2rem !important;
+}}
+[data-testid="stSidebarCollapseButton"] button {{
+    background: #F77F00 !important;
+    border-radius: 50% !important;
+    border: 2px solid #E85D04 !important;
+}}
+
+button[data-testid="collapsedControl"] span,
+[data-testid="stSidebarCollapseButton"] span {
+    font-size: 0px !important;
+    line-height: 0px !important;
+    visibility: hidden !important;
+    width: 0px !important;
+    height: 0px !important;
+    display: none !important;
+}
+button[data-testid="collapsedControl"],
+[data-testid="stSidebarCollapseButton"] button {
+    background-color: #F77F00 !important;
+    border-radius: 50% !important;
+    border: 2px solid #E85D04 !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
