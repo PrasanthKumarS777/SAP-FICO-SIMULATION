@@ -1,0 +1,7 @@
+Doc_Number,Posting_Date,Due_Date,Customer_ID,Customer_Name,GL_Account,Description,Invoice_Amount,Payment_Amount,Outstanding_Amount,Payment_Date,Payment_Doc,T_Code,Company_Code,Fiscal_Year,Period
+3001,2024-04-10,2024-05-10,C001,Bharat Manufacturing Ltd,110000,Product Supply April,750000,500000,250000,2024-04-25,R001,F-28,IN01,2024,1
+3002,2024-04-12,2024-05-27,C002,Odisha Infratech Pvt Ltd,110000,Infrastructure Components,520000,0,520000,,,FB70,IN01,2024,1
+3003,2024-04-15,2024-05-15,C003,Eastern Traders Co,110000,Trading Goods April,310000,310000,0,2024-05-10,R002,F-28,IN01,2024,1
+3004,2024-04-18,2024-06-17,C004,Sunrise Exports Ltd,110000,Export Order April,890000,0,890000,,,FB70,IN01,2024,1
+3005,2024-04-22,2024-05-22,C001,Bharat Manufacturing Ltd,110000,Product Supply April 2,430000,0,430000,,,FB70,IN01,2024,1
+3006,2024-04-28,2024-05-28,C003,Eastern Traders Co,110000,Trading Goods April 2,275000,0,275000,,,FB70,IN01,2024,1
