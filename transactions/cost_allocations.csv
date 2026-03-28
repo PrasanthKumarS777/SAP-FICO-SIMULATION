@@ -1,0 +1,11 @@
+Doc_Number,Posting_Date,Cost_Center,Cost_Center_Name,GL_Account,Description,Actual_Amount,Plan_Amount,Company_Code,Controlling_Area,Fiscal_Year,Period
+4001,2024-04-05,CC002,Production,300000,Raw Material Expense,400000,350000,IN01,CA01,2024,1
+4002,2024-04-15,CC001,Administration,310000,Salaries and Wages,100000,120000,IN01,CA01,2024,1
+4003,2024-04-15,CC002,Production,310000,Salaries and Wages,100000,100000,IN01,CA01,2024,1
+4004,2024-04-15,CC003,Sales and Marketing,310000,Salaries and Wages,50000,60000,IN01,CA01,2024,1
+4005,2024-04-20,CC001,Administration,320000,Rent Expense,32000,30000,IN01,CA01,2024,1
+4006,2024-04-20,CC002,Production,320000,Rent Expense,32000,30000,IN01,CA01,2024,1
+4007,2024-04-20,CC003,Sales and Marketing,320000,Rent Expense,16000,15000,IN01,CA01,2024,1
+4008,2024-04-28,CC001,Administration,340000,Miscellaneous Expense,15000,10000,IN01,CA01,2024,1
+4009,2024-04-28,CC002,Production,340000,Miscellaneous Expense,10000,10000,IN01,CA01,2024,1
+4010,2024-04-28,CC003,Sales and Marketing,340000,Miscellaneous Expense,5000,8000,IN01,CA01,2024,1
