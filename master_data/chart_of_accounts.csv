@@ -1,0 +1,18 @@
+GL_Account,Account_Description,Account_Type,Account_Group,Company_Code,Currency
+100000,Cash in Hand,Asset,Current Assets,IN01,INR
+100100,Bank Account - HDFC,Asset,Current Assets,IN01,INR
+110000,Accounts Receivable,Asset,Current Assets,IN01,INR
+120000,Inventory - Raw Material,Asset,Current Assets,IN01,INR
+150000,Plant and Machinery,Asset,Fixed Assets,IN01,INR
+150100,Accumulated Depreciation,Asset,Fixed Assets,IN01,INR
+200000,Accounts Payable,Liability,Current Liabilities,IN01,INR
+210000,Short Term Loan,Liability,Current Liabilities,IN01,INR
+250000,Share Capital,Liability,Equity,IN01,INR
+260000,Retained Earnings,Liability,Equity,IN01,INR
+300000,Raw Material Expense,Expense,Cost of Goods Sold,IN01,INR
+310000,Salaries and Wages,Expense,Operating Expense,IN01,INR
+320000,Rent Expense,Expense,Operating Expense,IN01,INR
+330000,Depreciation Expense,Expense,Operating Expense,IN01,INR
+340000,Miscellaneous Expense,Expense,Operating Expense,IN01,INR
+400000,Sales Revenue,Revenue,Revenue,IN01,INR
+410000,Service Revenue,Revenue,Revenue,IN01,INR

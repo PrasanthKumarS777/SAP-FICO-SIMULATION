@@ -1,0 +1,5 @@
+Customer_ID,Customer_Name,City,State,Country,Currency,Payment_Terms,Recon_Account,Credit_Limit,Created_By,Created_On
+C001,Bharat Manufacturing Ltd,Bhubaneswar,Odisha,India,INR,Net 30,110000,500000,PRASANTH,2024-04-01
+C002,Odisha Infratech Pvt Ltd,Cuttack,Odisha,India,INR,Net 45,110000,750000,PRASANTH,2024-04-01
+C003,Eastern Traders Co,Kolkata,West Bengal,India,INR,Net 30,110000,300000,PRASANTH,2024-04-01
+C004,Sunrise Exports Ltd,Hyderabad,Telangana,India,INR,Net 60,110000,1000000,PRASANTH,2024-04-01

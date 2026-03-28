@@ -1,0 +1,4 @@
+Cost_Center,Cost_Center_Name,Department,Company_Code,Controlling_Area,Valid_From,Valid_To,Responsible_Person
+CC001,Administration,Admin,IN01,CA01,2024-04-01,2025-03-31,PRASANTH
+CC002,Production,Manufacturing,IN01,CA01,2024-04-01,2025-03-31,PRASANTH
+CC003,Sales and Marketing,Sales,IN01,CA01,2024-04-01,2025-03-31,PRASANTH
